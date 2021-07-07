@@ -1,9 +1,10 @@
-# Network System and HTTP
-### Web Basic   
-#### 호스팅 (서비스): 
-* 정의: 서버 컴퓨터의 전체 또는 일정 공간을 이용할 수 있또록 임대해 주는 서비스를 말한다.   
-* 호스팅 종류   
-* 1. 웹 호스팅 : 서버 컴퓨터의 일부 공간을 임대해 주는 서비스   
-* 2. 서버 호스팅: 반적으로 서버 컴퓨터 전체를 임대하는 서비스를 뜻하나 (종류에 따라 부분 임대도 그 뜻에 포함된다)  
-* 2-a) VPS 가상 서버 호스팅: 가상 서버 하나를 단독으로 호스팅 하는 방식 
-* 2-b) VDS 가상 전용 서버 호스팅 : VPS 는 공유 코어가 제공 되나, VDS는 단일 코어가 제공되는 차이
+## 쉽게 배우는 운영체제 
+####  [CH01. OS 개요](https://github.com/minchjung/termsStudy/wiki/CH01-OS-%EA%B0%9C%EC%9A%94)  
+####  [CH02. 컴퓨터의 구조와 성능 향상](https://github.com/minchjung/termsStudy/wiki/CH02-%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81)  
+####  [CH03. 프로세스 와 스레드(1) ](https://github.com/minchjung/termsStudy/wiki/CH03.-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C)  
+####  [CH03. 프로세스 와 스레드(2) ](https://github.com/minchjung/termsStudy/wiki/CH03.-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C-(2))  
+####  [CH04. 스케줄링 ](https://github.com/minchjung/termsStudy/wiki/CH03.-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C-(2))  
+  
+## Network System HTTP  
+#### [OSI 7 Layers](https://github.com/minchjung/CSstudy/wiki/01.-OSI-7-%EA%B3%84%EC%B8%B5)
+
