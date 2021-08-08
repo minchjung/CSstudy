@@ -6,8 +6,7 @@
 ####  [CH04. CPU 스케줄링 ](https://github.com/minchjung/CSstudy/wiki/CH04.-CPU-%EC%8A%A4%EC%BC%80%EC%A5%B4%EB%A7%81)  
 ####  [CH05. 프로세스 동기화 ](https://github.com/minchjung/CSstudy/wiki/CH05.-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%8F%99%EA%B8%B0%ED%99%94)   
 
-  
-## Network System HTTP  
-#### [OSI 7 Layers](https://github.com/minchjung/CSstudy/wiki/01.-OSI-7-%EA%B3%84%EC%B8%B5)
 ## System Design 
 #### [Cache & Load Balancer](https://github.com/minchjung/CSstudy/wiki/%5BSystemDesign%5DCache-&-Load-Balancer)  
+## Network System HTTP  
+#### [OSI 7 Layers](https://github.com/minchjung/CSstudy/wiki/01.-OSI-7-%EA%B3%84%EC%B8%B5)
