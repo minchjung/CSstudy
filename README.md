@@ -9,4 +9,5 @@
   
 ## Network System HTTP  
 #### [OSI 7 Layers](https://github.com/minchjung/CSstudy/wiki/01.-OSI-7-%EA%B3%84%EC%B8%B5)
-
+## System Design 
+#### [Cache & Load Balancer](https://github.com/minchjung/CSstudy/wiki/%5BSystemDesign%5DCache-&-Load-Balancer)  
