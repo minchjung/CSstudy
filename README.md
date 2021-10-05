@@ -7,3 +7,8 @@
 ####  [CH05. 프로세스 동기화 ](https://github.com/minchjung/CSstudy/wiki/CH05.-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%8F%99%EA%B8%B0%ED%99%94)  
 ####  [CH06. 교착 상태 ](https://github.com/minchjung/CSstudy/wiki/CH6.-%EA%B5%90%EC%B0%A9-%EC%83%81%ED%83%9C)
 ####  [CH07. 물리 메모리 관리 ](https://github.com/minchjung/CSstudy/wiki/CH07.-%EB%AC%BC%EB%A6%AC-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC)
+## Linux 우분투 v20.04
+#### [1. 설치 및 재설치 주의 사항]()  
+#### [2. 권한 설정](https://github.com/minchjung/CSstudy/wiki/Linux-02.-%EA%B6%8C%ED%95%9C-%EC%84%A4%EC%A0%95)  
+#### [3. 환경 변수](https://github.com/minchjung/CSstudy/wiki/Linux-03-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95)  
+#### [etc. 기타](https://github.com/minchjung/CSstudy/wiki/Linux-etc-%EA%B8%B0%ED%83%80)  
